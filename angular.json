@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "atable"
+    }
+  },
+  "defaultProject": "atable",
+  "cli": {
+    "analytics": false
+  }
 }
